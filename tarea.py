@@ -33,3 +33,5 @@ for (x, y, w, h) in faces:
 
 cv2.imshow("Faces found", image)
 cv2.waitKey(0)
+
+#adrianMiranda
